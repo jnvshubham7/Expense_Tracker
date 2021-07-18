@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ProgressBar
+        android:layout_width="79dp"
+        android:layout_height="79dp"
+        android:id="@+id/progress_bar"
+        android:visibility="gone"
+        android:layout_centerInParent="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="19dp"
+        android:paddingRight="19dp"
+        android:paddingTop="79dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Select Category:"
+            android:layout_marginBottom="9dp"/>
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:id="@+id/spinner_category"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="49dp">
+
+        </androidx.appcompat.widget.AppCompatSpinner>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/trans_amt_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/trans_amt"
+                android:layout_marginRight="4dp"
+                android:padding="14dp"
+                android:hint="Enter amount"
+                android:inputType="number" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/date"
+            android:layout_marginTop="19dp"
+            android:textSize="17dp"
+            android:padding="14dp"
+            android:hint="Enter date" />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/trans_type_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/memo"
+                android:layout_marginRight="4dp"
+                android:padding="14dp"
+                android:hint="Enter memo"
+                android:inputType="textNoSuggestions"
+                android:layout_marginLeft="4dp"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/btn_details_save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="49dp"
+            android:paddingTop="29dp"
+            android:layout_centerHorizontal="true">
+            <Button android:id="@+id/btn_details"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:text="Save Details"
+                android:background="@color/colorPrimary"
+                android:layout_marginBottom="69dp"
+                android:textStyle="bold"
+                android:textColor="#ffffff"
+                android:textSize="19dp"/>
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+
+</RelativeLayout>
+

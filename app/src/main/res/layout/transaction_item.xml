@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="11dp"
+        android:background="@drawable/edittext_border">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/category_trans"
+                android:text="Food"
+                android:textSize="19sp"
+                android:paddingTop="16dp"
+                android:paddingLeft="31dp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:textStyle="normal"
+                android:paddingStart="31dp"
+                tools:ignore="RtlSymmetry" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/date_transaction"
+                android:textSize="16sp"
+                android:layout_toRightOf="@id/category_trans"
+                android:paddingTop="21dp"
+                android:layout_marginLeft="11dp"
+                android:text="15-July-2021"
+                android:layout_toEndOf="@id/category_trans"
+                android:layout_marginStart="11dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u20B9"
+                android:layout_toLeftOf="@id/amount_text"
+                android:paddingTop="13dp"
+                android:paddingRight="6dp"
+                android:paddingLeft="31dp"
+                android:paddingBottom="16dp"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:textSize="22sp"
+                android:layout_toStartOf="@id/amount_text"
+                android:paddingEnd="6dp"
+                android:paddingStart="31dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/amount_text"
+                android:text="600"
+                android:textSize="17sp"
+                android:textStyle="normal"
+                android:paddingTop="16dp"
+                android:paddingRight="16dp"
+                android:paddingBottom="16dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:paddingEnd="16dp"
+                tools:ignore="RtlSymmetry" />
+        </RelativeLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

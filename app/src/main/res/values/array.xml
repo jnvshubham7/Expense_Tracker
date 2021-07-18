@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="add_array">
+        <item>Add Category</item>
+        <item>Add Expense</item>
+        <item>Add Monthly limit</item>
+    </string-array>
+</resources>
