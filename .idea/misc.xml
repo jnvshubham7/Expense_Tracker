@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_category.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_column_chart.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_login.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_logingin.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_main.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_signup.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_splash_screen.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_trans.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_transaction.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_user.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/category_item_view.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/dialog_add_category.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/dialog_add_limit.xml" value="0.1" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/transaction_item.xml" value="0.33" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/user_info.xml" value="0.5" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/menu/main_menu.xml" value="0.2777777777777778" />
+      </map>
+    </option>
+  </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
     <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
@@ -25,7 +48,7 @@
     </option>
     <option name="myNotNulls">
       <value>
-        <list size="13">
+        <list size="14">
           <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
           <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
           <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
@@ -39,9 +62,10 @@
           <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
           <item index="11" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
           <item index="12" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="lombok.NonNull" />
         </list>
       </value>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

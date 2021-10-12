@@ -84,15 +84,17 @@
             android:layout_marginBottom="49dp"
             android:paddingTop="29dp"
             android:layout_centerHorizontal="true">
-            <Button android:id="@+id/btn_details"
+
+            <Button
+                android:id="@+id/btn_details"
                 android:layout_width="match_parent"
                 android:layout_height="59dp"
-                android:text="Save Details"
-                android:background="@color/colorPrimary"
                 android:layout_marginBottom="69dp"
-                android:textStyle="bold"
+                android:background="@color/colorPrimary"
+                android:text="Save Details"
                 android:textColor="#ffffff"
-                android:textSize="19dp"/>
+                android:textSize="19dp"
+                android:textStyle="bold" />
         </com.google.android.material.textfield.TextInputLayout>
     </LinearLayout>
 

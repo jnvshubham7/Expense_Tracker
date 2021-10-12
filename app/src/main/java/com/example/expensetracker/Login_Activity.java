@@ -28,13 +28,14 @@ public class Login_Activity extends AppCompatActivity {
     public EditText loginEmailId, logInpasswd;
     Button btnLogIn;
     TextView signup, newPassButton;
+    GoogleSignInClient mGoogleSignInClient;
+    FirebaseAuth firebaseAuth;
     private FirebaseAuth.AuthStateListener authStateListener;
 
     private static final int RC_SIGN_IN = 234;
     private static final String TAG = "example";
 
-    GoogleSignInClient mGoogleSignInClient;
-    FirebaseAuth firebaseAuth;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
