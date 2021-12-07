@@ -3,11 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/color_cursor.xml" value="0.403125" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/edittext_border.xml" value="0.20462962962962963" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.403125" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/ic_add_categories_black_24dp.xml" value="0.403125" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/ic_card_travel_black_24dp.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/ic_email_black_24dp.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/ic_person_black_24dp.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/ic_settings_black_24dp.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/drawable/ic_undraw_wallet_aym5.xml" value="0.20462962962962963" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_category.xml" value="0.31666666666666665" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_column_chart.xml" value="0.31666666666666665" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_login.xml" value="0.38645833333333335" />
-        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_logingin.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_logingin.xml" value="0.33" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_main.xml" value="0.31666666666666665" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_signup.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_splash_screen.xml" value="0.31666666666666665" />
@@ -16,8 +26,9 @@
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/activity_user.xml" value="0.31666666666666665" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/category_item_view.xml" value="0.31666666666666665" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/dialog_add_category.xml" value="0.31666666666666665" />
-        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/dialog_add_limit.xml" value="0.1" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/dialog_add_limit.xml" value="0.33" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/newpass_activity.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/transaction_item.xml" value="0.33" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/layout/user_info.xml" value="0.5" />
         <entry key="..\:/Users/Shubham/Documents/GitHub/Expense_Tracker/app/src/main/res/menu/main_menu.xml" value="0.2777777777777778" />
