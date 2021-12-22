@@ -1,4 +1,4 @@
-# Expense_Tracker
+# Expense Tracker
 
 
 ### Screenshots
