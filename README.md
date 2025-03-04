@@ -48,7 +48,7 @@
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/expense-tracker.git](https://github.com/jnvshubham7/Expense_Tracker)
+   git clone https://github.com/jnvshubham7/Expense_Tracker.git
    cd expense-tracker
    ```
 2. **Open the project in Android Studio**:
